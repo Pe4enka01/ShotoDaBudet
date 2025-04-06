@@ -1,1 +1,2 @@
 # ShotoDaBudet
+vetoczka rabotaj
